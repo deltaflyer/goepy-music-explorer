@@ -1,1 +1,6 @@
-spotipy pyopenssl ndg-httpsclient pyasn1 bottle
+spotipy
+pyopenssl
+ndg-httpsclient
+pyasn1
+bottle
+
