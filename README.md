@@ -1,8 +1,8 @@
 # [Goepy Music Explorer](http://www.goepy.de)
 
-The GoePy Music Explorer is a demo that illustrates the power of two python libraries **spotipy** and **bottle**. The GoePy Music Explorer is a web application that gives you the opportunity to search for music artists and browse through all albom covers. **Spotipy** is used to extract public data from the Spotify web API and **bottle** is used to run the web app and to realize REST functionality.
+The GoePy Music Explorer is a demo that illustrates the power of two python libraries [spotipy](https://github.com/plamere/spotipy) and [bottle](http://www.bottlepy.org). The GoePy Music Explorer is a web application that gives you the opportunity to search for music artists and browse through all albom covers. **Spotipy** is used to extract public data from the Spotify web API and **bottle** is used to run the web app and to realize REST functionality.
 
-![Screenshot](https://raw.github.com/deltaflyer/goepy-music-explorer/master/{screenshot.png)
+![Screenshot](https://raw.githubusercontent.com/deltaflyer/goepy-music-explorer/master/screenshot.png)
 
 ## Getting Started
 
